@@ -9,15 +9,14 @@ With a user-friendly interface and intuitive navigation, finding the resources y
 
 GIGADB is your all-in-one school resource center, providing you with the tools and information you need to succeed in your studies.
 
-We have:
+Contents:
 
-    Comprehensive database of study resources
-    Interactive quizzes (Kahoots)
-    Powerful calculators for math, science, and more
-    Study guides for any subject
-    An educational video database
-    Extensive library of formulas for all subjects
-    User-friendly interface and intuitive navigation
-    Advanced search functionality for quick and easy resource discovery
-    Regularly updated with new resources and features to keep you ahead of the curve
-    Accessible from any device, anywhere, anytime.
+.. toctree::
+   :maxdepth: 4
+
+   Grade 6
+      Math
+         Calculators
+            Generic Calculator
+      Physics
+         Equations
